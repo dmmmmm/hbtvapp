@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/okhttp/CountingSink.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/okhttp/CustomRequestBody.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/okhttp/DownLoadCallBack.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/okhttp/FileDiscription.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/okhttp/OkHttpUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/okhttp/PrograssListner.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/okhttp/ResultCallBack.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/util/AppSettings.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/util/DensityUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/util/IMap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/util/IParams.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/util/LU.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/util/PhotoUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/util/PreferencesUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/util/SU.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/util/TU.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hongbao/util/TimeUtils.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

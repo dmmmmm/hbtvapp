@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_dialog_bg.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_item_selector.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\tb_munion_item_selector.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_selector.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_normal.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_title_bg.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_orange.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_button_blue.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\material_button_blue.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_focused.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_normal.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_red.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_tap.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_tap.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_green.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_wifi_disable.png",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_button_blue_shape_pressed.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\material_button_blue_shape_pressed.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_button_blue_shape_normal.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\material_button_blue_shape_normal.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_selector.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_icon.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\tb_munion_icon.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_close_bg_selector.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_focused.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_focused.xml"
+    }
+]

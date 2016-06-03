@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customprogressdialog.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\layout\\customprogressdialog.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_common_download_notification.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\layout\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "D:\\hbtvappfromeclipse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_aditem.xml",
+        "source": "D:\\hbtvappfromeclipse\\app\\src\\main\\res\\layout\\tb_munion_aditem.xml"
+    }
+]

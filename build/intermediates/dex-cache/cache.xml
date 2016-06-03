@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\hbtvappfromeclipse\app\libs\okhttp-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\hbtvappfromeclipse\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-2.5.0_b1dc0606ad67781548df7f71cd8201b0f93fef2f\classes.dex" />
+    </item>
+    <item
+        jar="D:\hbtvappfromeclipse\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="514a1cbcb09939ee2b2c21307aa02c6ec04d065c">
+        <dex dex="D:\hbtvappfromeclipse\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_32eeaa4315e4e181d7a10f28ac54987487f8623d\classes.dex" />
+    </item>
+    <item
+        jar="D:\hbtvappfromeclipse\app\libs\okhttp-urlconnection-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="D:\hbtvappfromeclipse\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-urlconnection-2.0.0_537ad3f8ba91ef39e7fe9a6bd314a0f17b51fde8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\HBDev\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="D:\hbtvappfromeclipse\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_d83dc8e0315cd47ca1d6746f6c571fa4552a631b\classes.dex" />
+    </item>
+    <item
+        jar="C:\sdkxd\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\hbtvappfromeclipse\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_e4f18f734a776ef9db1ae70ce120d7c1ba00ffd4\classes.dex" />
+    </item>
+    <item
+        jar="D:\hbtvappfromeclipse\app\libs\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\hbtvappfromeclipse\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.6.0_bd48ab7ca697a8cefa8b5ffe6872fbe838de6ec4\classes.dex" />
+    </item>
+    <item
+        jar="D:\hbtvappfromeclipse\app\libs\umeng-update-v2.6.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e76510af0986842b672c59d29502f3d29866320a">
+        <dex dex="D:\hbtvappfromeclipse\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-update-v2.6.0.1_2521b2c9f1ad987bf4771a811ccd79e6c198733e\classes.dex" />
+    </item>
+    <item
+        jar="D:\hbtvappfromeclipse\app\libs\okhttp-apache-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8d5ecca29ce0547e297d2faa307ab69377d72afd">
+        <dex dex="D:\hbtvappfromeclipse\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-apache-2.5.0_a813f98b44a2063be1e89d9ab94d4f87661b258b\classes.dex" />
+    </item>
+    <item
+        jar="D:\hbtvappfromeclipse\app\libs\fastjson-1.2.7.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a5c721e8ea1e18854272879d6ed2770d25feb342">
+        <dex dex="D:\hbtvappfromeclipse\app\build\intermediates\transforms\dex\debug\folders\1000\2\fastjson-1.2.7_13b51ff2b983959f3097fe432169e072a855f865\classes.dex" />
+    </item>
+    <item
+        jar="D:\hbtvappfromeclipse\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\hbtvappfromeclipse\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_c2ab0db73e435f2042bc955cc3f5cf18cb724361\classes.dex" />
+    </item>
+    <item
+        jar="D:\hbtvappfromeclipse\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="81b1983fae23af8648194f60ab169de11c0251e2">
+        <dex dex="D:\hbtvappfromeclipse\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9493fd711f11556523dfd80cbbf7dda0cb9daa72\classes.dex" />
+    </item>
+    <item
+        jar="D:\hbtvappfromeclipse\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\hbtvappfromeclipse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_1af0a5c0ce6b7b17dc437eb2c5c91932e4a406bf\classes.dex" />
+    </item>
+
+</items>
